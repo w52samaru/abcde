@@ -12,7 +12,7 @@ $RECYCLE.BIN/
 *.cab
 *.msi
 *.msm
-*.msp
+*.mspd
 
 # Windows shortcuts
 *.lnk
@@ -42,7 +42,7 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-# unity
+# unity wadawrafafgrserg
 Library
 Temp
 *.pidb
